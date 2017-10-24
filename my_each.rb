@@ -4,6 +4,6 @@ def my_each(s)# put argument(s) here
     yield s[i]
     i += 1
   end
-  
+  s
   # code here
 end
